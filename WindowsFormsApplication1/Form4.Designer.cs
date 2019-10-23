@@ -73,7 +73,7 @@
             // 
             // button5
             // 
-            this.button5.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.Location = new System.Drawing.Point(16, 19);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(116, 48);
@@ -86,11 +86,11 @@
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label6.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label6.Location = new System.Drawing.Point(153, 24);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(338, 37);
+            this.label6.Size = new System.Drawing.Size(482, 42);
             this.label6.TabIndex = 17;
             this.label6.Text = "MARATHON SKILLS 2017";
             // 
@@ -113,20 +113,20 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(209, 108);
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(91, 116);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(554, 20);
+            this.label3.Size = new System.Drawing.Size(807, 24);
             this.label3.TabIndex = 22;
             this.label3.Text = "Пожалуйста заполните всю информацию, чтобы зарегистрироваться в качестве бегуна";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Arial Narrow", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(387, 76);
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(369, 84);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(194, 29);
+            this.label4.Size = new System.Drawing.Size(279, 32);
             this.label4.TabIndex = 21;
             this.label4.Text = "Регистрация бегуна";
             // 
@@ -209,7 +209,7 @@
             this.textBox1.ForeColor = System.Drawing.SystemColors.InactiveCaption;
             this.textBox1.Location = new System.Drawing.Point(293, 156);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.Size = new System.Drawing.Size(100, 22);
             this.textBox1.TabIndex = 31;
             this.textBox1.Text = "Email";
             this.textBox1.Enter += new System.EventHandler(this.textBox1_Enter);
@@ -221,7 +221,7 @@
             this.textBox2.ForeColor = System.Drawing.SystemColors.InactiveCaption;
             this.textBox2.Location = new System.Drawing.Point(293, 182);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
+            this.textBox2.Size = new System.Drawing.Size(100, 22);
             this.textBox2.TabIndex = 32;
             this.textBox2.Text = "Пароль";
             this.textBox2.Enter += new System.EventHandler(this.textBox1_Enter);
@@ -233,7 +233,7 @@
             this.textBox4.ForeColor = System.Drawing.SystemColors.InactiveCaption;
             this.textBox4.Location = new System.Drawing.Point(293, 260);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 20);
+            this.textBox4.Size = new System.Drawing.Size(100, 22);
             this.textBox4.TabIndex = 34;
             this.textBox4.Text = "Фамилия";
             this.textBox4.Enter += new System.EventHandler(this.textBox1_Enter);
@@ -245,7 +245,7 @@
             this.textBox5.ForeColor = System.Drawing.SystemColors.InactiveCaption;
             this.textBox5.Location = new System.Drawing.Point(293, 234);
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(100, 20);
+            this.textBox5.Size = new System.Drawing.Size(100, 22);
             this.textBox5.TabIndex = 35;
             this.textBox5.Text = "Имя";
             this.textBox5.Enter += new System.EventHandler(this.textBox1_Enter);
@@ -257,7 +257,7 @@
             this.textBox6.ForeColor = System.Drawing.SystemColors.InactiveCaption;
             this.textBox6.Location = new System.Drawing.Point(293, 208);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(100, 20);
+            this.textBox6.Size = new System.Drawing.Size(100, 22);
             this.textBox6.TabIndex = 36;
             this.textBox6.Text = "Повторите пароль";
             this.textBox6.Enter += new System.EventHandler(this.textBox1_Enter);
@@ -278,7 +278,7 @@
             this.textBox7.ForeColor = System.Drawing.SystemColors.InactiveCaption;
             this.textBox7.Location = new System.Drawing.Point(460, 252);
             this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(86, 20);
+            this.textBox7.Size = new System.Drawing.Size(86, 22);
             this.textBox7.TabIndex = 38;
             this.textBox7.Text = "Photo_logo.jpg";
             // 
@@ -329,9 +329,9 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.SystemColors.Control;
-            this.pictureBox1.Location = new System.Drawing.Point(645, 140);
+            this.pictureBox1.Location = new System.Drawing.Point(657, 156);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(102, 132);
+            this.pictureBox1.Size = new System.Drawing.Size(90, 116);
             this.pictureBox1.TabIndex = 42;
             this.pictureBox1.TabStop = false;
             // 
@@ -385,11 +385,11 @@
             // 
             this.label15.AutoSize = true;
             this.label15.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label15.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label15.Location = new System.Drawing.Point(430, 413);
+            this.label15.Location = new System.Drawing.Point(399, 410);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(127, 23);
+            this.label15.Size = new System.Drawing.Size(180, 26);
             this.label15.TabIndex = 46;
             this.label15.Text = "Тут будет время";
             // 
@@ -405,7 +405,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(931, 445);
             this.Controls.Add(this.label15);
             this.Controls.Add(this.comboBox2);

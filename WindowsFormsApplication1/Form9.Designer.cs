@@ -44,8 +44,8 @@
             // 
             // button2
             // 
-            this.button2.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(588, 12);
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(716, 18);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(116, 48);
             this.button2.TabIndex = 83;
@@ -54,7 +54,7 @@
             // 
             // button5
             // 
-            this.button5.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.Location = new System.Drawing.Point(15, 13);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(116, 48);
@@ -67,11 +67,11 @@
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label6.Font = new System.Drawing.Font("Arial Narrow", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label6.Location = new System.Drawing.Point(137, 24);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(338, 37);
+            this.label6.Size = new System.Drawing.Size(482, 42);
             this.label6.TabIndex = 81;
             this.label6.Text = "MARATHON SKILLS 2017";
             // 
@@ -87,9 +87,9 @@
             // 
             this.button1.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button1.Location = new System.Drawing.Point(238, 163);
+            this.button1.Location = new System.Drawing.Point(207, 169);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(99, 35);
+            this.button1.Size = new System.Drawing.Size(212, 59);
             this.button1.TabIndex = 84;
             this.button1.Text = "Регистрация на марафон";
             this.button1.UseVisualStyleBackColor = false;
@@ -98,9 +98,9 @@
             // 
             this.button3.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button3.Location = new System.Drawing.Point(376, 215);
+            this.button3.Location = new System.Drawing.Point(454, 255);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(99, 35);
+            this.button3.Size = new System.Drawing.Size(212, 59);
             this.button3.TabIndex = 85;
             this.button3.Text = "Мой спонсор";
             this.button3.UseVisualStyleBackColor = false;
@@ -109,9 +109,9 @@
             // 
             this.button4.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button4.Location = new System.Drawing.Point(376, 163);
+            this.button4.Location = new System.Drawing.Point(454, 169);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(99, 35);
+            this.button4.Size = new System.Drawing.Size(212, 59);
             this.button4.TabIndex = 86;
             this.button4.Text = "Мои результаты";
             this.button4.UseVisualStyleBackColor = false;
@@ -120,9 +120,9 @@
             // 
             this.button6.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button6.Location = new System.Drawing.Point(238, 270);
+            this.button6.Location = new System.Drawing.Point(207, 344);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(99, 35);
+            this.button6.Size = new System.Drawing.Size(212, 59);
             this.button6.TabIndex = 87;
             this.button6.Text = "Контакты";
             this.button6.UseVisualStyleBackColor = false;
@@ -131,9 +131,9 @@
             // 
             this.button7.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button7.Location = new System.Drawing.Point(238, 215);
+            this.button7.Location = new System.Drawing.Point(207, 255);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(99, 35);
+            this.button7.Size = new System.Drawing.Size(212, 59);
             this.button7.TabIndex = 88;
             this.button7.Text = "Редактирование профиля";
             this.button7.UseVisualStyleBackColor = false;
@@ -142,11 +142,11 @@
             // 
             this.label17.AutoSize = true;
             this.label17.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label17.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label17.Location = new System.Drawing.Point(297, 449);
+            this.label17.Location = new System.Drawing.Point(351, 445);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(127, 23);
+            this.label17.Size = new System.Drawing.Size(180, 26);
             this.label17.TabIndex = 90;
             this.label17.Text = "Тут будет время";
             // 
@@ -155,16 +155,16 @@
             this.label12.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.label12.Location = new System.Drawing.Point(-75, 445);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(873, 37);
+            this.label12.Size = new System.Drawing.Size(928, 37);
             this.label12.TabIndex = 89;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Arial Narrow", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(296, 103);
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(350, 108);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(132, 29);
+            this.label4.Size = new System.Drawing.Size(187, 32);
             this.label4.TabIndex = 91;
             this.label4.Text = "Меню бегуна";
             // 
@@ -172,8 +172,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.ClientSize = new System.Drawing.Size(716, 476);
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.ClientSize = new System.Drawing.Size(844, 476);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label17);
             this.Controls.Add(this.label12);
